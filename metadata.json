@@ -1,0 +1,6 @@
+{
+  "name": "Noir Molato",
+  "description": "Maison de mode contemporaine à Kinshasa. Prêt-à-porter homme et femme, coupes précises et minimalisme éditorial noir et blanc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
